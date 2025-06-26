@@ -1,0 +1,4 @@
+- Tạo 2 terminal
+cd C:\Users\NITRO\Desktop\Workspace\CS313\AQI-Globe
++terminal 1 nhập lệnh: python -m uvicorn main:app --reload
++terminal 2 nhập lệnh: streamlit run app.py

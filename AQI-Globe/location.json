@@ -1,0 +1,83 @@
+[
+    {
+        "name": "โรงเรียนเตรียมทหาร รุ่นที่ 13 อนุสรณ์",
+        "location_id": 2857820,
+        "description": "",
+        "coordinates": {
+            "lat": 16.350857980092687,
+            "lng": 104.57883941275776
+        }
+    },
+    {
+        "name": "CMT8",
+        "location_id": 3276359,
+        "description": "",
+        "coordinates": {
+            "lat": 10.78533,
+            "lng": 106.67029
+        }
+    },
+    {
+        "name": "Yupparaj Wittayalai School",
+        "location_id": 225579,
+        "description": "",
+        "coordinates": {
+            "lat": 18.7909333,
+            "lng": 98.99
+        }
+    },
+    {
+        "name": "Đào Duy Từ",
+        "location_id": 2161296,
+        "description": "",
+        "coordinates": {
+            "lat": 21.0354,
+            "lng": 105.8529
+        }
+    },
+    {
+        "name": "Qoryah Darussalam",
+        "location_id": 1563313,
+        "description": "",
+        "coordinates": {
+            "lat": -6.3612408,
+            "lng": 106.8419476
+        }
+    },
+    {
+        "name": "Ocean Park",
+        "location_id": 3038744,
+        "description": "",
+        "coordinates": {
+            "lat": 1.311493,
+            "lng": 103.928128
+        }
+    },
+    {
+        "name": "Manila",
+        "location_id": 1543132,
+        "description": "",
+        "coordinates": {
+            "lat": 14.57711,
+            "lng": 120.9778
+        }
+    },
+    {
+        "name": "Nong Thin Public Park, Nong Khai",
+        "location_id": 225661,
+        "description": "",
+        "coordinates": {
+            "lat": 17.877479999999995,
+            "lng": 102.728925
+        }
+    },
+    {
+        "name": "National Economic and Social Development Council Office",
+        "location_id": 225631,
+        "description": "",
+        "coordinates": {
+            "lat": 13.756281,
+            "lng": 100.514267
+        }
+    }
+]
